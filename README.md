@@ -57,13 +57,13 @@ These comparisons illustrate how exceptionally rare aviation accidents have beco
 The aviation industry has become significantly safer over time, primarily due to improvements that prevent accidents from occurring in the first place. However, when accidents do happen, their consequences remain severe—especially for crew members and for military flights.
 This contrast highlights both the increased confidence in aviation safety and the effectiveness of modern safety measures, given the extremely low number of aviation accidents relative to the total number of flights
 
-## Data Visualization
+### Data Visualization
 The document includes visualizations that illustrate:
 - the distribution of fatality probabilities across different aircraft categories,
 - the year‑by‑year dynamics of the number of commercial flights.
 In addition, summary tables present aggregated data on fatalities, injuries, and fatality probabilities for each flight category
 
-## Repository structure
+### Repository structure
 
 - data/ — initial data (CSV)
 - images/ — images for readme
