@@ -1,4 +1,4 @@
-## Analytical study of the consequences of aviation accidents
+## Analysis of the consequences of aircraft crashes
 ### Purpose of the study
 The purpose of the project is to assess the distribution of fatalities and injuries by aircraft category and to compare key metrics between these categories. The results are presented in tables and graphs.
 ### Methodology and structure of the analysis
@@ -14,6 +14,14 @@ The purpose of the project is to assess the distribution of fatalities and injur
 - In the 21st century, despite significant safety innovations, the probability that all people on board survive an aviation accident has increased by only 3%.
 - Nevertheless, the number of casualties of half or more of all people on board still represents a 78.20862% probability in the event of an aviation accident in the 21st century. This is 0.55983% lover than in the last century.
 
+> left chart: 1908-2001, right chart: 2001-2019
+
+<p float="left">
+  <img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Comparison%2020.jpg" width="45%" />
+  <img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Comparison%2021.jpg" width="45%" />
+</p>
+<p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Summary%20Tables%20all.jpg" width="90%" /> </p>
+
 ## Overview
 Датасет содержит сведения о падениях самолётов за весь доступный период наблюдений.  
 Включены три категории: **Cargo**, **Cilvilian**, **Military**. Для каждого инцидента доступны поля: `date`, `aircraft_category`, `aboard`, `aboard_passengers`, `aboard_crew`, `fatalities`, `fatalities_passengers`, `fatalities_crew`, `ground`, `death_probability` и др.
@@ -27,11 +35,12 @@ The purpose of the project is to assess the distribution of fatalities and injur
 
 ## Repository structure
 
-- data/ — исходные данные (CSV)
-- sas/ — проект SAS и скрипты
-- reports/html/ — HTML‑отчёты (SAS output)
-- reports/pdf/ — итоговые PDF‑отчёты
-- README.md — этот файл
+- data/ — initial data (CSV)
+- images/ — images for readme
+- sas/ — SAS project
+- reports/html/ — HTML‑reports (SAS output)
+- reports/pdf/ — PDF-reports (SAS output)
+- README.md — this file
 
 
 > **Примечание:** пути указаны относительно корня репозитория — при необходимости поправьте имена файлов.
