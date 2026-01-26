@@ -20,7 +20,7 @@ The purpose of the project is to assess the distribution of fatalities and injur
   <img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Comparison%2020.jpg" width="45%" />
   <img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Comparison%2021.jpg" width="45%" />
 </p>
-<p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Summary%20Tables%20all.jpg" width="90%" /> </p>
+<p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Summary%20Tables%20all.jpg" width="80%" /> </p>
 
 ## Overview
 Датасет содержит сведения о падениях самолётов за весь доступный период наблюдений.  
