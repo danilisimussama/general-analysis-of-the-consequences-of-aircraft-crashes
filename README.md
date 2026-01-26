@@ -35,6 +35,8 @@ For military aviation, the available data is limited to officially published sta
 Despite this limitation, the trend is unambiguous: in the event of an aviation accident, the probability of fatality reaches approximately 94%.
 This extremely high rate reflects both the operational specifics of military flights and the severity of incidents that are officially recorded
 
+> Summary statistics 1908-2019
+
 <p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Summary%20Statistics%20all.jpg" width="70%" /> </p>
 
 ## Flight Numbers and Safety Trends
@@ -47,7 +49,19 @@ For context, this is significantly lower than:
 - or the probability of a fatal shark encounter (0.00003%).
 These comparisons illustrate how exceptionally rare aviation accidents have become relative to other low‑probability events.
 
+>The number of commercial flights (millions) by year
+
 <p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/2004-2019.png" width="70%" /> </p>
+
+## Conclusions
+The aviation industry has become significantly safer over time, primarily due to improvements that prevent accidents from occurring in the first place. However, when accidents do happen, their consequences remain severe—especially for crew members and for military flights.
+This contrast highlights both the increased confidence in aviation safety and the effectiveness of modern safety measures, given the extremely low number of aviation accidents relative to the total number of flights
+
+## Data Visualization
+The document includes visualizations that illustrate:
+- the distribution of fatality probabilities across different aircraft categories,
+- the year‑by‑year dynamics of the number of commercial flights.
+In addition, summary tables present aggregated data on fatalities, injuries, and fatality probabilities for each flight category
 
 ## Repository structure
 
@@ -57,7 +71,3 @@ These comparisons illustrate how exceptionally rare aviation accidents have beco
 - reports/html/ — HTML‑reports (SAS output)
 - reports/pdf/ — PDF-reports (SAS output)
 - README.md — this file
-
-
-> **Примечание:** пути указаны относительно корня репозитория — при необходимости поправьте имена файлов.
-
