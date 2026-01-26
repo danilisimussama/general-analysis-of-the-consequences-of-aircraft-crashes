@@ -20,11 +20,21 @@ The purpose of the project is to assess the distribution of fatalities and injur
   <img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Comparison%2020.jpg" width="45%" />
   <img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Comparison%2021.jpg" width="45%" />
 </p>
-<p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Summary%20Tables%20all.jpg" width="80%" /> </p>
+<p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Summary%20Tables%20all.jpg" width="70%" /> </p>
 
-## Overview
-Датасет содержит сведения о падениях самолётов за весь доступный период наблюдений.  
-Включены три категории: **Cargo**, **Cilvilian**, **Military**. Для каждого инцидента доступны поля: `date`, `aircraft_category`, `aboard`, `aboard_passengers`, `aboard_crew`, `fatalities`, `fatalities_passengers`, `fatalities_crew`, `ground`, `death_probability` и др.
+### Interpretation of Summary Tables
+To better understand the patterns shown in the graphs, summary tables were compiled for the entire observation period and grouped by flight type
+
+### Cargo Flights
+The data clearly indicates that cargo aircraft accounted for 1,719 fatalities out of 2,080 people involved in accidents.
+This disproportion is explained by the consistently small number of people on board: on average, cargo flights carry no more than 5 individuals, of whom 3 are crew members.
+Because of this low occupancy, even a single fatal accident significantly shifts the overall fatality ratio.
+
+### Military Flights
+For military aviation, the available data is limited to officially published statistics.
+Despite this limitation, the trend is unambiguous: in the event of an aviation accident, the probability of fatality reaches approximately 94%.
+This extremely high rate reflects both the operational specifics of military flights and the severity of incidents that are officially recorded
+
 
 ## Key findings
 - **Доля по категориям:** Civilian ≈ **84.7%**, Military ≈ **14.0%**, Cargo ≈ **1.35%**.  
