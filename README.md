@@ -35,13 +35,19 @@ For military aviation, the available data is limited to officially published sta
 Despite this limitation, the trend is unambiguous: in the event of an aviation accident, the probability of fatality reaches approximately 94%.
 This extremely high rate reflects both the operational specifics of military flights and the severity of incidents that are officially recorded
 
+<p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/PDF%20-%20Summary%20Statistics%20all.jpg" width="70%" /> </p>
 
-## Key findings
-- **Доля по категориям:** Civilian ≈ **84.7%**, Military ≈ **14.0%**, Cargo ≈ **1.35%**.  
-- **Средняя вероятность смерти (по категории):** Military ≈ **0.94**, Cargo ≈ **0.89**, Civilian ≈ **0.79**.  
-- **Среднее число людей на борту:** Civilian ≈ **34**, Military ≈ **29**, Cargo ≈ **5**.  
-- **Вывод:** гражданских инцидентов больше в абсолютных числах из‑за гораздо большей экспозиции (больше полётов/рейсов); при этом риск на один инцидент выше у военных и грузовых самолётов.  
-- **Time split:** данные разделены на периоды **до 18.09.2001** и **после 18.09.2001** для оценки влияния событий 2001 года на частоту и смертность.
+## Flight Numbers and Safety Trends
+
+Estimating the total number of commercial flights in the early decades of aviation is difficult due to the absence of complete historical records. However, available data suggests that between 1908 and 2000, there were approximately 300–400 million commercial flights.
+In the 21st century, the scale of global aviation increased dramatically. Between 2004 and 2019, the world recorded 495 million commercial flights, including 38.9 million flights in 2019 alone. This growth highlights a key trend: modern aviation safety is driven primarily by preventing accidents altogether rather than mitigating their consequences.
+Based on these flight volumes, the estimated probability of being involved in an aviation accident in the 21st century is approximately 0.0000896%. 
+For context, this is significantly lower than:
+- the probability of being struck by lightning (0.006%),
+- or the probability of a fatal shark encounter (0.00003%).
+These comparisons illustrate how exceptionally rare aviation accidents have become relative to other low‑probability events.
+
+<p><img src="https://github.com/danilisimussama/general-analysis-of-the-consequences-of-aircraft-crashes/blob/main/images/2004-2019.png" width="70%" /> </p>
 
 ## Repository structure
 
