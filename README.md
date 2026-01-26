@@ -5,7 +5,7 @@ The purpose of the project is to assess the distribution of fatalities by aircra
 - The analysis was performed separately for two periods: before 18 September 2001 and after that date.
 - Three categories of flights are considered: civil, cargo, and military. 
 - Only aviation accidents are included in the analysis, not aviation incidents
-**Note:** differences in absolute losses are partly explained by exposure (number of flights and passengers). 
+- **Note:** differences in absolute losses are partly explained by exposure (number of flights and passengers). 
 ### Definitions
 - An **aviation accident** is an event related to the flight operation of an aircraft in aviation that has resulted in the death or serious injury of any person(s), significant damage to or loss of that aircraft.
 - An **aviation incident** is an event associated with the use of an aircraft (from boarding to disembarking) caused by deviations from normal operation that created or could have created a safety hazard but did **not** result in an aviation accident (catastrophe or crash). This is an incident caused by technical failures or crew errors.
