@@ -1,6 +1,6 @@
 ## Analysis of the consequences of aircraft crashes
 ### Purpose of the study
-The purpose of the project is to assess the distribution of fatalities and injuries by aircraft category and to compare key metrics between these categories. The results are presented in tables and graphs.
+The purpose of the project is to assess the distribution of fatalities by aircraft category and to compare key metrics between these categories. The results are presented in tables and graphs.
 ### Methodology and structure of the analysis
 - The analysis was performed separately for two periods: before 18 September 2001 and after that date.
 - Three categories of flights are considered: civil, cargo, and military. 
